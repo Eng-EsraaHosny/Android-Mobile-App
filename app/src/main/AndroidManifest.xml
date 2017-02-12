@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="App Name"
+        android:icon="@drawable/food_icon"
         android:supportsRtl="true"
+        android:label=""
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -19,12 +19,18 @@
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".SignupActivity" />
-        <activity android:name=".SettingsActivity" />
-        <activity android:name=".CategoriesActivity" />
-        <activity android:name=".MenuItemsActivity" />
-        <activity android:name=".MenuItemDetailsActivity"></activity>
+        <activity android:name=".LoginActivity"
+            android:label="Login"/>
+        <activity android:name=".SignupActivity"
+            android:label="Sign Up"/>
+        <activity android:name=".SettingsActivity"
+            android:label="Settings"/>
+        <activity android:name=".CategoriesActivity"
+            android:label="Category"/>
+        <activity android:name=".MenuItemsActivity"
+            android:label="MenuItems"/>
+        <activity android:name=".MenuItemDetailsActivity"
+            android:label="Item Details"></activity>
     </application>
 
 </manifest>

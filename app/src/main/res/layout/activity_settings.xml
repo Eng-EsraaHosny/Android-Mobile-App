@@ -10,4 +10,46 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.esraahosny.graduationapp.SettingsActivity">
 
+
+    <TextView
+        android:text="Language"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="40dp"
+        android:id="@+id/languageTextView" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/languageTextView"
+        android:id="@+id/languageSpinner"
+        android:background="@color/colorAccent"
+        android:popupBackground="@color/colorAccent"
+        android:layout_toRightOf="@+id/languageTextView"
+        android:layout_centerHorizontal="true"/>
+
+
+    <TextView
+        android:text="Font    "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/languageTextView"
+        android:layout_marginTop="60dp"
+        android:id="@+id/fontTextView" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/fontTextView"
+        android:id="@+id/fontSpinner"
+        android:background="@color/colorAccent"
+        android:popupBackground="@color/colorAccent"
+        android:layout_toRightOf="@+id/fontTextView"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@+id/languageSpinner"
+
+        android:layout_centerHorizontal="true"/>
+
+
 </RelativeLayout>
