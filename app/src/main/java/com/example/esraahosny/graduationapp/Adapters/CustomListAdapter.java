@@ -1,4 +1,5 @@
-package com.example.esraahosny.graduationapp;
+/*
+package com.example.esraahosny.graduationapp.Adapters;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
@@ -8,9 +9,13 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.esraahosny.graduationapp.R;
+
+*/
 /**
  * Created by Esraa Hosny on 2/12/2017.
- */
+ *//*
+
 
 public class CustomListAdapter  extends ArrayAdapter<String> {
 
@@ -43,3 +48,4 @@ public class CustomListAdapter  extends ArrayAdapter<String> {
     };
 }
 
+*/

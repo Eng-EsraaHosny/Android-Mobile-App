@@ -8,7 +8,7 @@
         android:supportsRtl="true"
         android:label=""
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Splash.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -16,20 +16,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".HomeActivity"
+            android:name=".Activities.HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".LoginActivity"
+        <activity android:name=".Auth.LoginActivity"
             android:label="Login"/>
-        <activity android:name=".SignupActivity"
+        <activity android:name=".Auth.SignupActivity"
             android:label="Sign Up"/>
-        <activity android:name=".SettingsActivity"
+        <activity android:name=".Activities.SettingsActivity"
             android:label="Settings"/>
-        <activity android:name=".CategoriesActivity"
+        <activity android:name=".Activities.CategoriesActivity"
             android:label="Category"/>
-        <activity android:name=".MenuItemsActivity"
+        <activity android:name=".Activities.MenuItemsActivity"
             android:label="MenuItems"/>
-        <activity android:name=".MenuItemDetailsActivity"
+        <activity android:name=".Activities.MenuItemDetailsActivity"
             android:label="Item Details"></activity>
     </application>
 

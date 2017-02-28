@@ -1,7 +1,9 @@
-package com.example.esraahosny.graduationapp;
+package com.example.esraahosny.graduationapp.Auth;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.esraahosny.graduationapp.R;
 
 public class LoginActivity extends AppCompatActivity {
 

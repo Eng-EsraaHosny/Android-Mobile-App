@@ -1,4 +1,4 @@
-package com.example.esraahosny.graduationapp;
+package com.example.esraahosny.graduationapp.Splash;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.esraahosny.graduationapp.Activities.HomeActivity;
+import com.example.esraahosny.graduationapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

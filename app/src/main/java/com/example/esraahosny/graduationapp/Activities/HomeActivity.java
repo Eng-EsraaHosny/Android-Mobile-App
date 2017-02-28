@@ -1,9 +1,8 @@
-package com.example.esraahosny.graduationapp;
+package com.example.esraahosny.graduationapp.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -16,6 +15,11 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
+
+import com.example.esraahosny.graduationapp.Auth.LoginActivity;
+import com.example.esraahosny.graduationapp.Auth.SignupActivity;
+import com.example.esraahosny.graduationapp.R;
+import com.example.esraahosny.graduationapp.Splash.MainActivity;
 
 public class HomeActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

@@ -1,4 +1,4 @@
-package com.example.esraahosny.graduationapp;
+package com.example.esraahosny.graduationapp.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.support.v7.widget.Toolbar;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
+
+import com.example.esraahosny.graduationapp.R;
 
 public class SettingsActivity extends AppCompatActivity {
 
