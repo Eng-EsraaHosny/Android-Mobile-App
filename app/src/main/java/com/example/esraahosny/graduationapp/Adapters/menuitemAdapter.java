@@ -1,3 +1,4 @@
+/*
 package com.example.esraahosny.graduationapp.Adapters;
 
 import android.content.Context;
@@ -13,9 +14,11 @@ import com.example.esraahosny.graduationapp.R;
 
 import java.util.List;
 
+*/
 /**
  * Created by Esraa Hosny on 2/28/2017.
- */
+ *//*
+
 
 public class menuitemAdapter extends BaseAdapter {
 
@@ -63,3 +66,4 @@ public class menuitemAdapter extends BaseAdapter {
 
     }
 }
+*/

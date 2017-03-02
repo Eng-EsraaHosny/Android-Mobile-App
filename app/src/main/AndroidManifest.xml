@@ -2,11 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.esraahosny.graduationapp">
 
+     <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/food_icon"
         android:supportsRtl="true"
-        android:label=""
+        android:label="Cafeteria"
         android:theme="@style/AppTheme">
         <activity android:name=".Splash.MainActivity">
             <intent-filter>
