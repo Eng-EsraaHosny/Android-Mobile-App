@@ -2,346 +2,184 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="78f3ebbc6d2617d3293efa6bdd5e3fe46dc0d37c">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_773923857dd3fbd5a11e61228522f114f3c0d2e2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_09207d64a79f282809aa85d0fc8959a3dcb8bcf0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_9345bf946a2ad0e347f24e5d07b22c61ddf54d88\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2284ddfe8baad7e08d3efd86a36ed7e4edd6d251\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_09207d64a79f282809aa85d0fc8959a3dcb8bcf0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2284ddfe8baad7e08d3efd86a36ed7e4edd6d251.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a045a1116e2066e9cbe9544fb0bf5b5bbbde8b56\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_a045a1116e2066e9cbe9544fb0bf5b5bbbde8b56.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_277ad89772561e1ac98759ca69a9a0a0b8ea3158.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_277ad89772561e1ac98759ca69a9a0a0b8ea3158\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_ab0ce4ac557b9f49a7b8d050716e2b5d44b08f75\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5bd63e84d7fc81551ae561007698fff1586a1827.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_41dc619d22b60a80692172b2a31c69fe68befb69.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f701864c1008b99839c9b6534f86106c82b6392f.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_41dc619d22b60a80692172b2a31c69fe68befb69\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d0f1dde1b5dd395e5994bc85ce1e3621fb609892">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3c5e57cefafb3033b82541cca62a0ee78035ef2\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_202687b709bd6d249ecb465db9be8c9367c9dda1.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_92cd8029f1245cebc5a884370d0e85e04cc618aa\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_84f3f31d14352ae34e8aa63a8fb51c87adc6181d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_202687b709bd6d249ecb465db9be8c9367c9dda1\classes.dex" />
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_abf34d30cf4c2e518b8c6411df77ecb10a7b7ca5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\EngYo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_84f3f31d14352ae34e8aa63a8fb51c87adc6181d\classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_745486e41615f31bc7ffe8cda55a825722efeca4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_ab0ce4ac557b9f49a7b8d050716e2b5d44b08f75.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_92cd8029f1245cebc5a884370d0e85e04cc618aa.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_cbe2ee448d60e372de4e8cea8c97609c7452ad5f\classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_978b3ad796b0a335a8635b3076aade14bfcf3400.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_cbe2ee448d60e372de4e8cea8c97609c7452ad5f.jar" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3e3b67959d124c2485dcc391395338e0f7c590d5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f701864c1008b99839c9b6534f86106c82b6392f\classes.dex" />
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3d1da6e49b0f33ebe24eb44c78793b2d54323b52.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_cd718e4c43aabefb3b0b83e840600c2cf3cd3497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_b7c656c7590b369cfca46a50f650c678ac96be73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_247eeed92b45315c41d5dbfc7c3f2fc375c33101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_9a2c673c5462c712b4aee28605d80daabacac21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297842d0e225b59a065f11bc4f5529bef8724347">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_505821ba5bead22911f925f157ccf664452ded04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_fcf28c823e5d6a0eecf380560c84749125c8aeba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_8172f2f03fc1cad7510ab0a4707eb540cc74160f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_b7f50b939252128267a7f29380f16f99b91eab9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_753d2256d24633289b71256b98b82f9738dc9ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_203a120dc72da739e23a6c0c7e0036d8e89f37e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_b30717fb60c99b90496b6825526566b36f37b563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_9117c18934123ab03b6e89350302b4c63f14c956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dc90ccf91f07c9074e87c86e94a8323e3583d7b8">
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\instant-run_1815101a5025eb34a8c46de69cad4dc45d7c41c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5bd63e84d7fc81551ae561007698fff1586a1827\classes.dex" />
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8f361ccebfd38a7a68dc06682652a7d57febd11c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_3b8d5121bd2a429e15c4879f7d8045bd7b0dc08f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_2bd422f1e3132154f9c4c46ab8b06fd143e1a99a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jar="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_2bd422f1e3132154f9c4c46ab8b06fd143e1a99a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_c1f5d25a61bb9846fb01548bb95cd2f743ec1c04\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_a75c2f69367220c2db2db4c585e537a4dd091425.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_c1f5d25a61bb9846fb01548bb95cd2f743ec1c04.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_a75c2f69367220c2db2db4c585e537a4dd091425\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_9345bf946a2ad0e347f24e5d07b22c61ddf54d88.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_3b8d5121bd2a429e15c4879f7d8045bd7b0dc08f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="E:\projects\AndroidStudio\GraduationApp\Android-Mobile-App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+        <dex dex="C:\Users\EngYo\Documents\GitHub\Android-Mobile-App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_d010b025cd03345be4e11a0fb37c059c4d0368de.jar" />
     </item>
 
 </items>
